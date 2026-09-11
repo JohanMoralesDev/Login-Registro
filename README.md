@@ -71,6 +71,7 @@ login-registro-php/
 ├── bienvenida.php
 ├── usuario.sql
 └── README.md
+```
 
 ## Autor
 
