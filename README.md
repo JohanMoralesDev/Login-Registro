@@ -71,3 +71,11 @@ login-registro-php/
 ├── bienvenida.php
 ├── usuario.sql
 └── README.md
+
+## Autor
+
+**Johan Morales**
+
+GitHub: [JohanMoralesDev](https://github.com/JohanMoralesDev)
+
+Proyecto desarrollado como práctica de desarrollo de software y desarrollo web.
